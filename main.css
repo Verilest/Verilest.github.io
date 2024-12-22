@@ -1,0 +1,151 @@
+
+body {
+    background-image: url('img/background.png');
+  }
+
+html{
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+header{
+    background-color: rgb(217, 217, 217);
+    display: flex;
+    justify-content: space-between;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+    border-bottom-left-radius: 17px;
+    border-bottom-right-radius: 17px;
+    font-family: "Roboto", sans-serif;
+
+}
+
+main{
+    display:flex;
+    text-indent: 3ch;
+    font-family: "Roboto", sans-serif;
+    min-height: calc(100vh - 272px);
+}
+
+footer{
+    background-color: rgb(217, 217, 217);
+    justify-content: space-between;
+    transform:translateY(100px);
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+    border-bottom-left-radius: 17px;
+    border-bottom-right-radius: 17px;
+    font-family: "Roboto", sans-serif;
+    display: flex;
+
+}
+
+
+
+
+
+.nav{
+    transform:translateY(14px); 
+    margin-left: 27px;
+}
+
+.nav1{
+    margin-right: 27px;
+}
+
+.nav2{
+    margin-right: 27px;
+}
+
+.nav3{
+    margin-right: 27px;
+}
+
+.title{
+    margin-right: 10px;
+    font-family: "Ubuntu Sans Mono", monospace;
+}
+.mynameis{
+    margin-right: 10px;
+}
+
+
+
+
+
+
+.vk{
+    height: 41px;
+    weight: 41px;
+}
+
+.yt{
+    height: 35px;
+    weight: 35px;
+}
+
+.tg{
+    height: 41px;
+    weight: 41px;
+}
+
+.img{
+    margin: 5px;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+
+
+
+
+
+
+
+.maintext{
+    margin-top: 90px;
+}
+
+.hello{
+    font-family: "Ubuntu Sans Mono", monospace;
+}
+
+
+
+
+
+
+
+
+.mainimg{
+    width: 545px;
+    height: 415px;
+    opacity: 3%;
+}
+
+
+
+
+
+
+
+
+.mainc{
+    background-color: rgb(217, 217, 217);
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
